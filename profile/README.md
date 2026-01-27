@@ -34,25 +34,25 @@ ImFact는
 
 ## 🧩 Key Features
 
-### 📰 뉴스 탐색
+### 뉴스 탐색
 - 카테고리별 뉴스 제공
 - 언론사별 뉴스 목록 확인
 - 신뢰도 점수 기반 뉴스 정렬 및 필터링
 
-### 📊 신뢰도 분석
+### 신뢰도 분석
 - 뉴스별 신뢰도 점수(0~100) 제공
 - 신뢰도 구간 시각화 (신뢰 / 주의 / 비추천)
 - 단순 참·거짓이 아닌 **확률 기반 판단**
 
-### ✂️ AI 요약
+### AI 요약
 - LLM 기반 뉴스 핵심 요약 제공
 - 긴 기사도 핵심만 빠르게 파악 가능
 
-### ⭐ 개인화 기능
+### 개인화 기능
 - 북마크를 통한 관심 뉴스 저장
 - 구독 언론사 관리
 
-### 🔔 알림
+### 알림
 - 관심 조건에 맞는 뉴스 업데이트 시 푸시 알림
 - Firebase Cloud Messaging(FCM) 기반 실시간 알림
 
@@ -62,7 +62,7 @@ ImFact는
 
 <img width="2054" height="1577" alt="서비스아키텍처_v1 drawio" src="https://github.com/user-attachments/assets/b7cb4799-4427-4426-9f62-59855bf92a05" />
 
-📌 System Architecture Diagram
+System Architecture Diagram
 
 - CloudFront + S3 기반 정적 프론트엔드
 - Spring Boot API Gateway
@@ -73,7 +73,7 @@ ImFact는
 
 ---
 
-## 🤖 Crawling & AI Inference Pipeline
+## 🤖Crawling & AI Inference Pipeline
 
 - **EventBridge**: 정기 크롤링 스케줄링
 - **Fargate**: Scrapy / Playwright 기반 뉴스 크롤링
