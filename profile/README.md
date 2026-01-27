@@ -1,5 +1,7 @@
 # ImFact
 
+![ImFact_이호영](https://github.com/user-attachments/assets/689a891c-732d-4741-be75-4b1364feda99)
+
 > **AI 기반 낚시성·가짜뉴스 신뢰도 분석 및 요약 제공 뉴스 플랫폼**  
 > 아주대학교 2025-2학기 파란학기제 프로젝트
 
@@ -160,12 +162,6 @@ System Architecture Diagram
 - 가짜뉴스·낚시성 뉴스에 대한 **인지 비용 감소**
 - 청년층 친화적 뉴스 큐레이션 모델 제시
 - 기존 조회수 중심 뉴스 플랫폼의 한계 보완
-
----
-
-## 🖼️ Demo & Poster
-
-![ImFact_이호영](https://github.com/user-attachments/assets/689a891c-732d-4741-be75-4b1364feda99)
 
 ---
 
