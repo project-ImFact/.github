@@ -22,7 +22,7 @@ ImFact는 자극적인 제목 중심의 클릭베이트 뉴스와 가짜뉴스 �
 
 ---
 
-## 💡 Core Concept
+## Core Concept
 
 - **AI 기반 뉴스 신뢰도 자동 분석**
 - **LLM 기반 뉴스 본문 핵심 요약**
@@ -31,7 +31,7 @@ ImFact는 자극적인 제목 중심의 클릭베이트 뉴스와 가짜뉴스 �
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 ### 뉴스 탐색
 - 카테고리별 뉴스 제공
@@ -57,7 +57,7 @@ ImFact는 자극적인 제목 중심의 클릭베이트 뉴스와 가짜뉴스 �
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 <img width="2054" height="1577" alt="서비스아키텍처_v1 drawio" src="https://github.com/user-attachments/assets/b7cb4799-4427-4426-9f62-59855bf92a05" />
 
@@ -72,7 +72,7 @@ System Architecture Diagram
 
 ---
 
-## 🤖Crawling & AI Inference Pipeline
+## Crawling & AI Inference Pipeline
 
 - **EventBridge**: 정기 크롤링 스케줄링
 - **Fargate**: Scrapy / Playwright 기반 뉴스 크롤링
@@ -85,7 +85,7 @@ System Architecture Diagram
 
 ---
 
-## 🔁 CI/CD Pipeline
+## CI/CD Pipeline
 
 ### Frontend
 - React + Vite
@@ -104,7 +104,7 @@ System Architecture Diagram
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -136,7 +136,7 @@ System Architecture Diagram
 
 ---
 
-## 👥 Team ImFact
+## Team ImFact
 
 | 이름 | 역할 |
 |----|----|
@@ -147,7 +147,7 @@ System Architecture Diagram
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 - **Program**: 아주대학교 2025-2학기 파란학기제
 - **Type**: 학생설계형 프로젝트
@@ -156,7 +156,7 @@ System Architecture Diagram
 
 ---
 
-## 📌 Outcomes & Impact
+## Outcomes & Impact
 
 - 신뢰도 기반 뉴스 소비 경험 제공
 - 가짜뉴스·낚시성 뉴스에 대한 **인지 비용 감소**
@@ -165,7 +165,7 @@ System Architecture Diagram
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for academic and research purposes.  
 Details will be added if the project is open-sourced.
