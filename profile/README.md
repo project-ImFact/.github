@@ -118,12 +118,11 @@ System Architecture Diagram
 - Spring Data JPA
 - MySQL (RDS)
 
-### AI / Data
-- Scrapy / scrapy-playwright
-- KoNLPy, Pandas
-- BERT / Transformer 계열 모델
+### AI / Data Pipeline
+- Playwright
+- KoBERT / KoBERTSeg
 - ONNX Runtime
-- LLM (요약)
+- Amazon Bedrock (Nova Micro)
 
 ### Infra
 - AWS EC2, S3, CloudFront
@@ -141,7 +140,7 @@ System Architecture Diagram
 | 이름 | 역할 |
 |----|----|
 | **이호영** | Backend Lead / API 설계 · DB · 인프라 |
-| **이주영** | AI Engineer / 크롤링 · ML 파이프라인 |
+| **이주영** | Data · AI / 크롤링 · ML 파이프라인 |
 | **전성민** | Frontend Lead / React · 상태관리 · UI |
 | **곽민서** | UX/UI Design · Frontend Support |
 
@@ -164,11 +163,3 @@ System Architecture Diagram
 - 기존 조회수 중심 뉴스 플랫폼의 한계 보완
 
 ---
-
-## License
-
-This project is developed for academic and research purposes.  
-Details will be added if the project is open-sourced.
-
----
-
